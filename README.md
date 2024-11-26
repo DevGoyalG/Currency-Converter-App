@@ -17,7 +17,7 @@ Check out the live demo of the Currency Converter App [here](https://currencies-
 ## 📸 Project Preview
 Here's a sneak peek of the Currency Converter App:
 
-![Project Preview](assets/Palindrome-Checker.png)
+![Project Preview](assets/Currency-Converter.png)
 
 ## 🚀 Features
 - Allows users to convert between various currencies using live exchange rates.
